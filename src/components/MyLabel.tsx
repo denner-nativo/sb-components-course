@@ -1,4 +1,3 @@
-import React from 'react'
 import './myLabel.css'
 
 export interface MyLabelProps {
@@ -39,3 +38,5 @@ export const MyLabel = ({
         </span>
     )
 }
+
+export default MyLabel;
